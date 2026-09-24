@@ -1037,3 +1037,1215 @@
       verified_at: 2026-09-24
       sources:
         - https://statuspage.me/integrations
+
+- id: checkly
+  name: Checkly
+  homepage: https://www.checklyhq.com
+  description: Synthetic monitoring platform for API and browser checks, with status pages and monitoring-as-code tooling.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/detect/synthetic-monitoring/api-checks/overview/
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/detect/synthetic-monitoring/api-checks/overview/
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/detect/synthetic-monitoring/api-checks/overview/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/communicate/status-pages/overview/
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/communicate/status-pages/overview/
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/communicate/status-pages/overview/
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/communicate/status-pages/overview/
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/communicate/status-pages/overview/
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/product/uptime-monitoring/
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/product/uptime-monitoring/
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/product/uptime-monitoring/
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/product/uptime-monitoring/
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/product/uptime-monitoring/
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/pricing/
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/pricing/
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/communicate/status-pages/subscriber-notifications/
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.checklyhq.com/docs/communicate/status-pages/subscriber-notifications/
+
+- id: cronitor
+  name: Cronitor
+  homepage: https://cronitor.io
+  description: Hosted monitoring for cron jobs, heartbeats, websites, and APIs, with status pages and issue alerts.
+  categories:
+    - monitoring
+    - incident_management
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/uptime-monitoring
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/uptime-monitoring
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/heartbeat-monitoring
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/uptime-monitoring
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/maintenance-windows-api
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/status-pages
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/api
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/integrations-api
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/uptime-monitoring
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/docs/uptime-monitoring
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cronitor.io/status-pages
+
+- id: hyperping
+  name: Hyperping
+  homepage: https://hyperping.com
+  description: Hosted uptime monitoring, on-call alerting, and status pages for websites and APIs.
+  categories:
+    - monitoring
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/status-page
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/docs/api/overview
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/features
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hyperping.com/
+
+- id: instatus
+  name: Instatus
+  homepage: https://instatus.com
+  description: Hosted status pages with built-in monitoring, incident response, and on-call scheduling.
+  categories:
+    - monitoring
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring/website
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring/api
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring/cron
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring/ping
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring/tcp-udp
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring/dns
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/incident-response/incidents
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/incident-response/maintenance
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/incident-response/on-call
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/incident-response/escalation-policies
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/status-page/public-page
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/status-page/private-page
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/status-page/components
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/status-page/custom-domain
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/status-page/subscribers
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/status-page/notifications/rss
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/status-page/metrics
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/api
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/integrations
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring/alerts
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/incident-response/incidents
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://instatus.com/help/monitoring
+      notes: Checks run from United States, Canada, Europe, and Asia, but from one location at a time in round-robin order.
+
+- id: rootly
+  name: Rootly
+  homepage: https://rootly.com
+  description: Incident response platform with on-call scheduling, status pages, and post-incident retrospectives.
+  categories:
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/incidents/incidents
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/on-call/on-call
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/api-reference/overview
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/integrations/overview
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/api-reference/escalationpaths/list-escalation-paths
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/configuration/status-page-authentication-methods
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/api-reference/statuspages/update-a-status-page
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/api-reference/statuspages/update-a-status-page
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.rootly.com/api-reference/statuspages/update-a-status-page
+
+- id: statusio
+  name: Status.io
+  homepage: https://status.io
+  description: Hosted status page platform for incident and maintenance communication with subscriber notifications.
+  categories:
+    - incident_management
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/features
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.io/integrations
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://kb.status.io/settings/url/
+
+- id: statuspal
+  name: StatusPal
+  homepage: https://statuspal.io
+  description: Hosted status pages with built-in HTTP monitoring, incident automation, and maintenance reporting.
+  categories:
+    - monitoring
+    - incident_management
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/monitoring-and-automations
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/status-page
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/monitoring-and-automations
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/monitoring-and-automations
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/status-page
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/status-page/private
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/status-page
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/notifications
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/features/status-page
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.statuspal.io/platform/api-reference
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspal.io/integrations
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.statuspal.io/platform/services-components
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.statuspal.io/get-started/step-4-enable-notifications
+
+- id: uptimecom
+  name: Uptime.com
+  homepage: https://uptime.com
+  description: Hosted website and API monitoring with status pages, incident updates, and SLA reporting.
+  categories:
+    - monitoring
+    - incident_management
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/website-monitoring
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/api-monitoring
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/port-monitoring
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/ssl-monitoring
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/heartbeat-cron-job-monitoring
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/probe-server-locations
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/status-page
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/status-page
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/status-page
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/sla-reporting
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/api/v1/docs/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.com/integrations
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://support.uptime.com/hc/en-us/articles/360016256840-Status-Page-Forms-and-Fields
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://support.uptime.com/hc/en-us/articles/360016256840-Status-Page-Forms-and-Fields
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://support.uptime.com/hc/en-us/articles/360016256820-Setup-Instructions-for-your-Uptime-com-Status-Page
+    automatic_incidents:
+      value: unsupported
+      verified_at: 2026-09-24
+      sources:
+        - https://support.uptime.com/hc/en-us/articles/360016256820-Setup-Instructions-for-your-Uptime-com-Status-Page
+      notes: Check-based component status updates automatically, but the documentation states that incidents still have to be added manually.
+
+- id: gatus
+  name: Gatus
+  homepage: https://gatus.io
+  description: Self-hosted health dashboard and status page that monitors services over HTTP, TCP, DNS, and ICMP.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/TwiN/gatus
+  license: Apache-2.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/TwiN/gatus
+
+- id: oneuptime
+  name: OneUptime
+  homepage: https://oneuptime.com
+  description: Open-source monitoring and incident platform with on-call, status pages, and postmortems.
+  categories:
+    - monitoring
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/OneUptime/oneuptime
+  license: Apache-2.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/OneUptime/oneuptime
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://oneuptime.com/docs/en/api-reference/api-reference
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://oneuptime.com/docs/en/status-pages/index
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://oneuptime.com/docs/en/status-pages/index
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://oneuptime.com/docs/en/status-pages/index
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://oneuptime.com/docs/en/status-pages/index
+
+- id: openstatus
+  name: OpenStatus
+  homepage: https://www.openstatus.dev
+  description: Open-source uptime monitoring and status pages, available as a hosted service or self-hosted.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/openstatusHQ/openstatus
+  license: AGPL-3.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/openstatusHQ/openstatus
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.openstatus.dev/docs/reference/tcp-monitor
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.openstatus.dev/docs/reference/dns-monitor
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.openstatus.dev/docs/reference/icmp-monitor
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.openstatus.dev/docs/concept/status-reports-and-incidents
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.openstatus.dev/docs/concept/status-reports-and-incidents
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.openstatus.dev/docs/reference/page-components
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.openstatus.dev/docs/reference/page-components
+
+- id: kener
+  name: Kener
+  homepage: https://kener.ing
+  description: Self-hosted status page system with monitoring checks and incident management.
+  categories:
+    - monitoring
+    - incident_management
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/rajnandan1/kener
+  license: MIT
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/rajnandan1/kener
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://kener.ing/docs/v4/pages
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://kener.ing/docs/v4/subscriptions
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://kener.ing/docs/v4/rss-feed
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://kener.ing/docs/v4/incidents/overview

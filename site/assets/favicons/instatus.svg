@@ -1,0 +1,122 @@
+<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charSet="utf-8"/><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><link rel="stylesheet" href="/_next/static/immutable/chunks/265pkeqwn7x4c.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/immutable/chunks/3pxn6k-9wjtmh.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/immutable/chunks/27uxi38c0j1eq.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/immutable/chunks/0n90_qjqnqtmo.js"/><script src="/_next/static/immutable/chunks/0z6vqxxt9m4dt.js" async=""></script><script src="/_next/static/immutable/chunks/0q1zm8c4fa-8q.js" async=""></script><script src="/_next/static/immutable/chunks/0cfd0znjbjz8v.js" async=""></script><script src="/_next/static/immutable/chunks/turbopack-1oaw4vqjcl9ut.js" async=""></script><script src="/_next/static/immutable/chunks/377_sbh2yobto.js" async=""></script><script src="/_next/static/immutable/chunks/3orswyep9id6p.js" async=""></script><script src="/_next/static/immutable/chunks/0bbj2y0wjubd-.js" async=""></script><script src="/_next/static/immutable/chunks/2fu4hbz9wi6zm.js" async=""></script><script src="/_next/static/immutable/chunks/44gm49dh6r6na.js" async=""></script><script src="/_next/static/immutable/chunks/0b9paoh4-l1c4.js" async=""></script><script src="/_next/static/immutable/chunks/2fs6-_kn67kvo.js" async=""></script><script src="/_next/static/immutable/chunks/0luids7nn5mrw.js" async=""></script><script src="/_next/static/immutable/chunks/0-1u015qg810-.js" async=""></script><script src="/_next/static/immutable/chunks/2i1i_fi_7p3o4.js" async=""></script><script src="/_next/static/immutable/chunks/3_x5nmsc7m0t-.js" async=""></script><script src="/_next/static/immutable/chunks/1_fuzgeq4s3mp.js" async=""></script><script src="/_next/static/immutable/chunks/098u5d5s79s6o.js" async=""></script><script src="/_next/static/immutable/chunks/2h-ycx_alx3yb.js" async=""></script><script src="/_next/static/immutable/chunks/0p7qzi-byycov.js" async=""></script><script src="/_next/static/immutable/chunks/0mxp6a21iy84y.js" async=""></script><script src="/_next/static/immutable/chunks/1skqlzyxllhhq.js" async=""></script><script src="/_next/static/immutable/chunks/2ztrgk2-jmfbr.js" async=""></script><script src="/_next/static/immutable/chunks/2mcevi1080km5.js" async=""></script><script src="/_next/static/immutable/chunks/1b4gy-3esz0ep.js" async=""></script><script src="/_next/static/immutable/chunks/0w7whks64lu0y.js" async=""></script><script src="/_next/static/immutable/chunks/1abhaf61t__nc.js" async=""></script><script src="/_next/static/immutable/chunks/2vrispw3-_o5d.js" async=""></script><script src="/_next/static/immutable/chunks/1leqk7efnjr14.js" async=""></script><script src="/_next/static/immutable/chunks/239crm_47nanf.js" async=""></script><script src="/_next/static/immutable/chunks/277i6v7cj4kd0.js" async=""></script><script src="/_next/static/immutable/chunks/06pw-latrn475.js" async=""></script><script src="/_next/static/immutable/chunks/1w5bm65vxdt78.js" async=""></script><script src="/_next/static/immutable/chunks/1vkqfy4uvc4cy.js" async=""></script><script src="/_next/static/immutable/chunks/3cxuq_ia34j9m.js" async=""></script><script src="/_next/static/immutable/chunks/03i_2cj6pg9vg.js" async=""></script><script src="/_next/static/immutable/chunks/41cmf6orm7k_q.js" async=""></script><script src="/_next/static/immutable/chunks/2zxg1mtfamwja.js" async=""></script><script src="/_next/static/immutable/chunks/06zhn5kjpnm64.js" async=""></script><link rel="preload" href="/fonts/soehne-breit-extrafett.woff2" as="font" crossorigin="" type="font/woff2"/><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/><link rel="manifest" href="/site.webmanifest"/><meta name="msapplication-TileColor" content="#da532c"/><meta name="theme-color" content="#ffffff"/><meta name="robots" content="noindex, nofollow"/><meta property="og:title" content="Instatus"/><meta property="og:description" content="Monitor your services, fix incidents with your team, and share your status with customers."/><meta property="og:image" content="https://instatus.com/og.jpg"/><meta property="og:url" content="https://dashboard.instatus.com"/><meta property="og:type" content="website"/><meta property="og:site_name" content="Instatus"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@instatus"/><meta name="twitter:creator" content="@alisalahio"/><meta name="twitter:title" content="Instatus"/><meta name="twitter:description" content="Monitor your services, fix incidents with your team, and share your status with customers."/><meta name="twitter:image" content="https://instatus.com/og.jpg"/><meta name="og:video" content="https://instatus.com/og.mp4"/><meta name="og:video:type" content="video/mp4"/><meta name="og:video:width" content="1920"/><meta name="og:video:height" content="1080"/><meta name="robots" content="noindex, nofollow"/><script src="/_next/static/immutable/chunks/0c0hxoamwjsbw.js" noModule=""></script><script>__NEXT_CLIENT_RESUME=fetch(location.pathname+'?_rsc=xhdorIanPcIpYSsE',{credentials:'same-origin',headers:{'rsc': '1','next-router-prefetch': '1','next-router-segment-prefetch': '/_full'}})</script></head><body><div hidden=""><!--$--><!--/$--></div><script>try{localStorage.sidebarCollapsed==='1'&&document.documentElement.setAttribute('data-sidebar-collapsed','')}catch(e){}</script><!--$?--><template id="B:0"></template><!--/$--><script>!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if('system'===e||(!e&&false)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}else{c.add('light')}if(e==='light'||e==='dark'||!e)d.style.colorScheme=e||'light'}catch(e){}}()</script><style>
+:root {
+  --bprogress-color: #555;
+  --bprogress-height: 2px;
+  --bprogress-spinner-size: 18px;
+  --bprogress-spinner-animation-duration: 400ms;
+  --bprogress-spinner-border-size: 2px;
+  --bprogress-box-shadow: 0 0 10px #555, 0 0 5px #555;
+  --bprogress-z-index: 99999;
+  --bprogress-spinner-top: 15px;
+  --bprogress-spinner-bottom: auto;
+  --bprogress-spinner-right: 15px;
+  --bprogress-spinner-left: auto;
+}
+
+.bprogress {
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  z-index: var(--bprogress-z-index);
+}
+
+.bprogress .bar {
+  background: var(--bprogress-color);
+  position: fixed;
+  z-index: var(--bprogress-z-index);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--bprogress-height);
+}
+
+/* Fancy blur effect */
+.bprogress .peg {
+  display: block;
+  position: absolute;
+  right: 0;
+  width: 100px;
+  height: 100%;
+  box-shadow: var(--bprogress-box-shadow);
+  opacity: 1.0;
+  transform: rotate(3deg) translate(0px, -4px);
+}
+
+/* Remove these to get rid of the spinner */
+.bprogress .spinner {
+  display: block;
+  position: fixed;
+  z-index: var(--bprogress-z-index);
+  top: var(--bprogress-spinner-top);
+  bottom: var(--bprogress-spinner-bottom);
+  right: var(--bprogress-spinner-right);
+  left: var(--bprogress-spinner-left);
+}
+
+.bprogress .spinner-icon {
+  width: var(--bprogress-spinner-size);
+  height: var(--bprogress-spinner-size);
+  box-sizing: border-box;
+  border: solid var(--bprogress-spinner-border-size) transparent;
+  border-top-color: var(--bprogress-color);
+  border-left-color: var(--bprogress-color);
+  border-radius: 50%;
+  -webkit-animation: bprogress-spinner var(--bprogress-spinner-animation-duration) linear infinite;
+  animation: bprogress-spinner var(--bprogress-spinner-animation-duration) linear infinite;
+}
+
+.bprogress-custom-parent {
+  overflow: hidden;
+  position: relative;
+}
+
+.bprogress-custom-parent .bprogress .spinner,
+.bprogress-custom-parent .bprogress .bar {
+  position: absolute;
+}
+
+.bprogress .indeterminate {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--bprogress-height);
+  overflow: hidden;
+}
+
+.bprogress .indeterminate .inc,
+.bprogress .indeterminate .dec {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  background-color: var(--bprogress-color);
+}
+
+.bprogress .indeterminate .inc {
+  animation: bprogress-indeterminate-increase 2s infinite;
+}
+
+.bprogress .indeterminate .dec {
+  animation: bprogress-indeterminate-decrease 2s 0.5s infinite;
+}
+
+@-webkit-keyframes bprogress-spinner {
+  0%   { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+@keyframes bprogress-spinner {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes bprogress-indeterminate-increase {
+  from { left: -5%; width: 5%; }
+  to { left: 130%; width: 100%; }
+}
+
+@keyframes bprogress-indeterminate-decrease {
+  from { left: -80%; width: 80%; }
+  to { left: 110%; width: 10%; }
+}
+</style><!--$?--><template id="B:1"></template><!--/$--><section aria-label="Notifications alt+T" tabindex="-1" aria-live="polite" aria-relevant="additions text" aria-atomic="false"></section><!--$?--><template id="B:3"></template><!--&--><!--$--><div></div><!--$?--><template id="B:19"></template><!--/$--><div class="flex flex-col min-h-dvb h-dvh max-h-dvh font-sans leading-tight bg-black md:flex-row md:bg-[#f6f7f9] dark:bg-black overflow-x-clip"><div class="sticky top-0 z-50 sidebar-shell shrink-0 min-h-svh max-h-svh transition-[width] duration-[250ms] ease-[cubic-bezier(0.22,1,0.36,1)] w-48"><button type="button" aria-label="Collapse sidebar" aria-expanded="true" class="group absolute top-[5.5rem] bottom-0 z-[60] w-3 -translate-x-1/2 transition-[left] duration-[250ms] ease-[cubic-bezier(0.22,1,0.36,1)] left-[12rem] cursor-w-resize"><span class="absolute inset-y-0 left-1/2 w-px bg-transparent -translate-x-1/2 group-hover:bg-gray-300 dark:group-hover:bg-gray-800"></span></button><div class="sidebar-panel absolute inset-y-0 left-0 flex w-48 flex-col gap-5 overflow-x-hidden border-r px-4 pt-[9px] pb-6 font-medium text-sm tracking-[-0.0075em] bg-[#f6f7f9] dark:bg-black transition-[width,padding,border-color,box-shadow] [&amp;_.sidebar-label]:transition-opacity [&amp;_.sidebar-label]:duration-[150ms] [&amp;_.sidebar-submarker]:transition-opacity [&amp;_.sidebar-submarker]:duration-[150ms] [&amp;_.sidebar-item]:transition-[width,margin] [&amp;_.sidebar-icon]:transition-[margin] [&amp;_.sidebar-subitem]:transition-[width] duration-[250ms] ease-[cubic-bezier(0.22,1,0.36,1)] [&amp;_.sidebar-item]:duration-[250ms] [&amp;_.sidebar-item]:ease-[cubic-bezier(0.22,1,0.36,1)] [&amp;_.sidebar-icon]:duration-[250ms] [&amp;_.sidebar-icon]:ease-[cubic-bezier(0.22,1,0.36,1)] [&amp;_.sidebar-subitem]:duration-[250ms] [&amp;_.sidebar-subitem]:ease-[cubic-bezier(0.22,1,0.36,1)] border-transparent shadow-none"><div class="flex relative z-10 items-center h-9"><!--$?--><template id="B:1a"></template><!--/$--></div><!--$?--><template id="B:1b"></template><!--/$--></div></div><div class="flex flex-col flex-1 md:pt-[9px] gap-[9px]"><div class="h-9 hidden md:flex items-center px-4"><div class="flex-1 flex"><div role="button" title="Search" class="flex items-center gap-2 px-2.5 h-9 rounded-lg cursor-pointer text-gray-700 dark:text-gray-300 grow max-w-[600px]"><span class="relative flex items-center justify-center h-4 w-6 shrink-0"><span class="absolute inset-0 flex items-center justify-center" style="opacity:1;transform:none"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="size-4 fill-current"><path fill="currentColor" d="M456.69 421.39 362.6 327.3a173.8 173.8 0 0 0 34.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.8 173.8 0 0 0 327.3 362.6l94.09 94.09a25 25 0 0 0 35.3-35.3M97.92 222.72a124.8 124.8 0 1 1 124.8 124.8 124.95 124.95 0 0 1-124.8-124.8"></path></svg></span></span><span class="text-sm">Search for anything</span></div></div><!--$?--><template id="B:1c"></template><div class="ms-auto rounded-md size-7 bg-gray-100 dark:bg-gray-900"></div><!--/$--></div><div class="flex overflow-hidden flex-col flex-1 bg-white border-t border-gray-200 border-s md:bg-gray-50 dark:bg-gray-970 dark:border-gray-940 rounded-t-4xl md:rounded-se-none md:rounded-ss-3xl"><main class="flex flex-col flex-1 p-4 md:py-10 @container/page overflow-y-auto overflow-x-hidden max-h-[calc(100dvh-5rem-var(--safe-area-inset-top,0px))] md:max-h-[calc(100dvh-3.375rem-var(--safe-area-inset-top,0px))]"><!--$--><!--&--><!--$--><!--&--><div class="flex justify-center items-center min-h-screen"><div class="jsx-71ec34c6bed4a1dc flex spinner gap-0.5"><div style="--bar-index:0;background-color:var(--bar-color-1)" class="jsx-71ec34c6bed4a1dc rounded-sm aspect-[0.28] w-1.5"></div><div style="--bar-index:1;background-color:var(--bar-color-1)" class="jsx-71ec34c6bed4a1dc rounded-sm aspect-[0.28] w-1.5"></div><div style="--bar-index:2;background-color:var(--bar-color-1)" class="jsx-71ec34c6bed4a1dc rounded-sm aspect-[0.28] w-1.5"></div></div></div><!--$--><!--/$--><!--/&--><!--/$--><!--/&--><!--/$--></main></div></div><!--$?--><template id="B:1d"></template><!--/$--></div><!--/$--><!--/&--><!--$?--><template id="B:2"></template><!--/$--><!--/$--><!--$?--><template id="B:4"></template><!--/$--><script>requestAnimationFrame(function(){$RT=performance.now()});</script><script src="/_next/static/immutable/chunks/0n90_qjqnqtmo.js" id="_R_" async=""></script><div hidden id="S:4"><template id="P:5"></template><template id="P:6"></template><template id="P:7"></template><template id="P:8"></template><template id="P:9"></template><template id="P:a"></template><template id="P:b"></template><template id="P:c"></template><template id="P:d"></template><template id="P:e"></template><template id="P:f"></template><template id="P:10"></template><template id="P:11"></template><template id="P:12"></template><template id="P:13"></template><template id="P:14"></template><template id="P:15"></template><template id="P:16"></template><template id="P:17"></template><template id="P:18"></template></div><script>$RX=function(b,c,d,e,f){var a=document.getElementById(b);a&&(b=a.previousSibling,b.data="$!",a=a.dataset,null!=c&&(a.dgst=c),d&&(a.msg=d),e&&(a.stck=e),f&&(a.cstck=f),b._reactRetry&&b._reactRetry())};;$RX("B:0","BAILOUT_TO_CLIENT_SIDE_RENDERING")</script><script>$RX("B:1","BAILOUT_TO_CLIENT_SIDE_RENDERING")</script><script>$RX("B:3","BAILOUT_TO_CLIENT_SIDE_RENDERING")</script><script>$RX("B:4","BAILOUT_TO_CLIENT_SIDE_RENDERING")</script></body></html><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"0:[]\n"])</script></body></html>

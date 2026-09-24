@@ -37,15 +37,27 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 |------|--------|:----------:|:-------------:|:-------:|:------------:|:----:|:-----------:|:-----------:|
 | [Better Stack](https://betterstack.com) | Active | Yes | Yes | Yes | Yes | Yes | No | No |
 | [Cachet](https://cachethq.io) | Active | — | — | — | Yes | No | Yes | Yes |
+| [Checkly](https://www.checklyhq.com) | Active | Yes | — | — | Yes | Yes | No | No |
+| [Cronitor](https://cronitor.io) | Active | Yes | Yes | — | Yes | Yes | No | No |
+| [Gatus](https://gatus.io) | Active | Yes | — | — | Yes | Yes | Yes | Yes |
 | [Grafana OnCall](https://grafana.com/products/oncall) | Archived | — | — | Yes | — | Yes | Yes | Yes |
+| [Hyperping](https://hyperping.com) | Active | Yes | Yes | Yes | Yes | Yes | No | No |
+| [Instatus](https://instatus.com) | Active | Yes | Yes | Yes | Yes | Yes | No | No |
+| [Kener](https://kener.ing) | Active | Yes | Yes | — | Yes | No | Yes | Yes |
+| [OneUptime](https://oneuptime.com) | Active | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| [OpenStatus](https://www.openstatus.dev) | Active | Yes | — | — | Yes | Yes | Yes | Yes |
 | [Opsgenie](https://www.atlassian.com/software/opsgenie) | Deprecated | — | Yes | Yes | Yes | Yes | No | No |
 | [PagerDuty](https://www.pagerduty.com) | Active | — | Yes | Yes | — | Yes | No | No |
 | [Pingdom](https://www.pingdom.com) | Active | Yes | — | — | Yes | Yes | No | No |
 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | Active | Yes | — | — | — | No | Yes | Yes |
+| [Rootly](https://rootly.com) | Active | — | Yes | Yes | Yes | Yes | No | No |
 | [Squadcast](https://www.squadcast.com) | Active | — | Yes | Yes | Yes | Yes | No | No |
+| [Status.io](https://status.io) | Active | — | Yes | — | Yes | Yes | No | No |
 | [StatusPage.me](https://statuspage.me/) | Active | Yes | Yes | Yes | Yes | Yes | No | No |
+| [StatusPal](https://statuspal.io) | Active | Yes | Yes | — | Yes | Yes | No | No |
 | [Statuspage](https://www.atlassian.com/software/statuspage) | Active | — | — | — | Yes | Yes | No | No |
 | [Uptime Kuma](https://uptime.kuma.pet) | Active | Yes | — | — | Yes | No | Yes | Yes |
+| [Uptime.com](https://uptime.com) | Active | Yes | Yes | — | Yes | Yes | No | No |
 | [UptimeRobot](https://uptimerobot.com) | Active | Yes | — | — | Yes | Yes | No | No |
 | [ilert](https://www.ilert.com) | Active | — | Yes | Yes | Yes | Yes | No | No |
 | [incident.io](https://incident.io) | Active | — | Yes | Yes | Yes | Yes | No | No |
@@ -58,10 +70,20 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | Tool | API monitoring | DNS monitoring | HTTP/HTTPS monitoring | Heartbeat / push monitoring | ICMP/ping monitoring | Multi-region monitoring | SSL certificate monitoring | TCP monitoring | SaaS | Self-hosted | Open source | Last verified |
 |------|---|---|---|---|---|---|---|---|---|---|---|---|
 | [Better Stack](https://betterstack.com) | ? | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Checkly](https://www.checklyhq.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Cronitor](https://cronitor.io) | Yes | ? | Yes | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Gatus](https://gatus.io) | Yes | Yes | Yes | Yes | Yes | ? | Yes | Yes | Yes | Yes | Yes | 2026-09-24 |
+| [Hyperping](https://hyperping.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Instatus](https://instatus.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Kener](https://kener.ing) | Yes | Yes | Yes | Yes | Yes | ? | Yes | Yes | No | Yes | Yes | 2026-09-24 |
+| [OneUptime](https://oneuptime.com) | Yes | Yes | Yes | ? | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 2026-09-24 |
+| [OpenStatus](https://www.openstatus.dev) | Yes | Yes | Yes | ? | Yes | Yes | ? | Yes | Yes | Yes | Yes | 2026-09-24 |
 | [Pingdom](https://www.pingdom.com) | ? | Yes | Yes | ? | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | ? | Yes | Yes | — | Yes | ? | Yes | Yes | No | Yes | Yes | 2026-09-24 |
 | [StatusPage.me](https://statuspage.me/) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [StatusPal](https://statuspal.io) | ? | ? | Yes | ? | ? | ? | ? | ? | Yes | No | No | 2026-09-24 |
 | [Uptime Kuma](https://uptime.kuma.pet) | Yes | Yes | Yes | Yes | Yes | ? | Yes | Yes | No | Yes | Yes | 2026-09-24 |
+| [Uptime.com](https://uptime.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [UptimeRobot](https://uptimerobot.com) | ? | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 
 
@@ -70,10 +92,19 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | Tool | Automatic incident creation | Incident management | Maintenance windows | Postmortems | SaaS | Self-hosted | Open source | Last verified |
 |------|---|---|---|---|---|---|---|---|
 | [Better Stack](https://betterstack.com) | Yes | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
+| [Cronitor](https://cronitor.io) | Yes | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
+| [Hyperping](https://hyperping.com) | Yes | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
+| [Instatus](https://instatus.com) | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Kener](https://kener.ing) | Yes | Yes | Yes | ? | No | Yes | Yes | 2026-09-24 |
+| [OneUptime](https://oneuptime.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 2026-09-24 |
 | [Opsgenie](https://www.atlassian.com/software/opsgenie) | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [PagerDuty](https://www.pagerduty.com) | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Rootly](https://rootly.com) | ? | Yes | ? | Yes | Yes | No | No | 2026-09-24 |
 | [Squadcast](https://www.squadcast.com) | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Status.io](https://status.io) | Yes | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
 | [StatusPage.me](https://statuspage.me/) | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [StatusPal](https://statuspal.io) | Yes | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
+| [Uptime.com](https://uptime.com) | No | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
 | [ilert](https://www.ilert.com) | Yes | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
 | [incident.io](https://incident.io) | Yes | Yes | ? | Yes | Yes | No | No | 2026-09-24 |
 
@@ -84,8 +115,12 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 |------|---|---|---|---|---|---|
 | [Better Stack](https://betterstack.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Grafana OnCall](https://grafana.com/products/oncall) | Yes | Yes | Yes | Yes | Yes | 2026-09-24 |
+| [Hyperping](https://hyperping.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Instatus](https://instatus.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [OneUptime](https://oneuptime.com) | Yes | Yes | Yes | Yes | Yes | 2026-09-24 |
 | [Opsgenie](https://www.atlassian.com/software/opsgenie) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [PagerDuty](https://www.pagerduty.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Rootly](https://rootly.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Squadcast](https://www.squadcast.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [StatusPage.me](https://statuspage.me/) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [ilert](https://www.ilert.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
@@ -98,12 +133,24 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 |------|---|---|---|---|---|---|---|---|---|---|---|
 | [Better Stack](https://betterstack.com) | Yes | ? | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Cachet](https://cachethq.io) | Yes | ? | Yes | ? | Yes | Yes | Yes | No | Yes | Yes | 2026-09-24 |
+| [Checkly](https://www.checklyhq.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Cronitor](https://cronitor.io) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Gatus](https://gatus.io) | ? | Yes | Yes | ? | ? | ? | Yes | Yes | Yes | Yes | 2026-09-24 |
+| [Hyperping](https://hyperping.com) | Yes | Yes | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Instatus](https://instatus.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Kener](https://kener.ing) | ? | ? | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes | 2026-09-24 |
+| [OneUptime](https://oneuptime.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 2026-09-24 |
+| [OpenStatus](https://www.openstatus.dev) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 2026-09-24 |
 | [Opsgenie](https://www.atlassian.com/software/opsgenie) | ? | ? | Yes | ? | ? | ? | ? | Yes | No | No | 2026-09-24 |
 | [Pingdom](https://www.pingdom.com) | ? | ? | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Rootly](https://rootly.com) | Yes | Yes | Yes | ? | Yes | ? | Yes | Yes | No | No | 2026-09-24 |
 | [Squadcast](https://www.squadcast.com) | Yes | ? | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [Status.io](https://status.io) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [StatusPage.me](https://statuspage.me/) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [StatusPal](https://statuspal.io) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Statuspage](https://www.atlassian.com/software/statuspage) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Uptime Kuma](https://uptime.kuma.pet) | Yes | ? | Yes | Yes | Yes | ? | Yes | No | Yes | Yes | 2026-09-24 |
+| [Uptime.com](https://uptime.com) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [UptimeRobot](https://uptimerobot.com) | Yes | ? | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [ilert](https://www.ilert.com) | Yes | ? | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [incident.io](https://incident.io) | ? | ? | Yes | ? | ? | ? | ? | Yes | No | No | 2026-09-24 |
