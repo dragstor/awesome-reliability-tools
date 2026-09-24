@@ -2249,3 +2249,725 @@
       verified_at: 2026-09-24
       sources:
         - https://kener.ing/docs/v4/incidents/overview
+
+- id: hetrixtools
+  name: HetrixTools
+  homepage: https://hetrixtools.com
+  description: Hosted uptime and blacklist monitoring for websites and servers, with public status pages.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/uptime-monitor/
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-monitor-core/
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-monitor-core/
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-monitor-core/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-status-page/
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-status-page/
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-status-page/
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-status-page/
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/feature/uptime-monitor-core/
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/uptime-monitor/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://hetrixtools.com/uptime-monitor/
+
+- id: onlineornot
+  name: OnlineOrNot
+  homepage: https://onlineornot.com
+  description: Hosted monitoring for websites, APIs, browser flows, and scheduled jobs, with status pages.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://onlineornot.com/llms.txt
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://onlineornot.com/llms.txt
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://onlineornot.com/llms.txt
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://onlineornot.com/llms.txt
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://developers.onlineornot.com/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://onlineornot.com/llms.txt
+
+- id: pulsetic
+  name: Pulsetic
+  homepage: https://pulsetic.com
+  description: Hosted uptime monitoring with incident management, maintenance scheduling, and public or private status pages.
+  categories:
+    - monitoring
+    - incident_management
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://pulsetic.com/
+
+- id: updown
+  name: UpDown.io
+  homepage: https://updown.io
+  description: Hosted website, TCP, and ICMP monitoring with hosted status pages and a REST API.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/api
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://updown.io/
+
+- id: webgazer
+  name: WebGazer
+  homepage: https://www.webgazer.io
+  description: Hosted website, port, ping, and cron monitoring with hosted status pages.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.webgazer.io/services/uptime-monitoring
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.webgazer.io/services/port-monitoring
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.webgazer.io/services/ping-monitoring
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.webgazer.io/services/cron-job-monitoring
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.webgazer.io/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.webgazer.io/services/status-pages
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.webgazer.io/
+
+- id: sorry
+  name: Sorry
+  homepage: https://www.sorry.app
+  description: Hosted status page platform for incident, maintenance, and product-update communication.
+  categories:
+    - incident_management
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/notices/incidents/
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/notices/maintenance/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/public-status-page/
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/private-status-page/
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/status-api/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.sorry.app/integrations/
+
+- id: statushub
+  name: StatusHub
+  homepage: https://statushub.com
+  description: Hosted status page and incident communication platform with public and private pages.
+  categories:
+    - incident_management
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/it-communication/
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/it-communication/
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/customisation/
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://api-docs.statushub.com/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statushub.com/integrations/
+
+- id: upptime
+  name: Upptime
+  homepage: https://github.com/upptime/upptime
+  description: Open-source uptime monitor and status page that runs on GitHub Actions, Issues, and Pages.
+  notes: Runs entirely on GitHub Actions for checks, GitHub Issues for incidents, and GitHub Pages for the status site.
+  categories:
+    - monitoring
+    - incident_management
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/upptime/upptime
+  license: MIT
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/upptime/upptime
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/upptime/upptime
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/upptime/upptime
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/upptime/upptime
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/upptime/upptime
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/upptime/upptime
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/upptime/upptime
+
+- id: checkmate
+  name: Checkmate
+  homepage: https://checkmate.so
+  description: Self-hosted monitoring tool that checks services and infrastructure and reports incidents on status pages.
+  categories:
+    - monitoring
+    - incident_management
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/bluewave-labs/Checkmate
+  license: AGPL-3.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/bluewave-labs/Checkmate
+
+- id: uptimeflare
+  name: UptimeFlare
+  homepage: https://github.com/lyc8503/UptimeFlare
+  description: Serverless uptime monitoring and status page that deploys on Cloudflare Workers.
+  notes: Deploys as Cloudflare Workers with checks issued from Cloudflare's network.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/lyc8503/UptimeFlare
+  license: Apache-2.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/lyc8503/UptimeFlare
+
+- id: peekaping
+  name: Peekaping
+  homepage: https://peekaping.com
+  description: Self-hosted uptime monitoring with status pages and multi-channel notifications.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/0xfurai/peekaping
+  license: MIT
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/0xfurai/peekaping
+
+- id: statping_ng
+  name: Statping-ng
+  homepage: https://statping-ng.github.io
+  description: Self-hosted status page and monitoring server for websites and applications.
+  notes: Community fork that continues the original Statping project.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/statping-ng/statping-ng
+  license: GPL-3.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/statping-ng/statping-ng
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/statping-ng/statping-ng
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/statping-ng/statping-ng
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/statping-ng/statping-ng
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/statping-ng/statping-ng
