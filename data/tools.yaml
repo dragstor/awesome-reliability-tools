@@ -1,0 +1,1039 @@
+- id: pingdom
+  name: Pingdom
+  homepage: https://www.pingdom.com
+  description: SolarWinds-owned synthetic monitoring service that tracks uptime, transactions, and page performance from global probe servers.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pingdom.com
+
+- id: uptimerobot
+  name: UptimeRobot
+  homepage: https://uptimerobot.com
+  description: Long-running hosted monitoring service that checks websites, ports, and heartbeat URLs and can publish a status page.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptimerobot.com
+
+- id: betterstack
+  name: Better Stack
+  homepage: https://betterstack.com
+  description: Hosted reliability platform combining uptime monitoring, log management, incident response, and public status pages.
+  categories:
+    - monitoring
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://betterstack.com
+
+- id: pagerduty
+  name: PagerDuty
+  homepage: https://www.pagerduty.com
+  description: Operations cloud focused on incident response, on-call scheduling, and operational analytics for digital teams.
+  categories:
+    - incident_management
+    - on_call
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+    public_status_page:
+      value: unknown
+      verified_at: 2026-09-24
+      sources:
+        - https://www.pagerduty.com
+      notes: Status pages are not a core PagerDuty capability.
+
+- id: opsgenie
+  name: Opsgenie
+  status: deprecated
+  homepage: https://www.atlassian.com/software/opsgenie
+  description: Atlassian on-call and alert management service with scheduling, escalation, and incident response workflows.
+  notes: End of sale was June 2025 and end of support is April 2027; Atlassian is directing users to Jira Service Management.
+  categories:
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.opsgenie.com/docs/postmortems
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie/pricing
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/opsgenie
+
+- id: ilert
+  name: ilert
+  homepage: https://www.ilert.com
+  description: European-hosted incident management, on-call scheduling, and status page platform with alert source integrations.
+  categories:
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.ilert.com
+    http_monitoring:
+      value: unknown
+      verified_at: 2026-09-24
+      notes: ilert ingests alerts from monitoring tools; we have not verified whether it performs native synthetic checks.
+
+- id: incidentio
+  name: incident.io
+  homepage: https://incident.io
+  description: SaaS reliability platform covering incident response, on-call scheduling, alerting, and status pages, with deep Slack and Microsoft Teams integration.
+  categories:
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://incident.io
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://incident.io
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://incident.io
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://incident.io
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://incident.io
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://incident.io/on-call
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://docs.incident.io/on-call/getting-started
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://incident.io
+
+- id: statuspage
+  name: Statuspage
+  homepage: https://www.atlassian.com/software/statuspage
+  description: Atlassian service that publishes public and private status pages with component-level health, subscribers, and RSS feeds.
+  categories:
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.atlassian.com/software/statuspage
+
+- id: cachet
+  name: Cachet
+  homepage: https://cachethq.io
+  description: Open-source status page system that can be self-hosted and supports components, metrics, and subscriber notifications.
+  categories:
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/cachethq/cachet
+  license: BSD-3-Clause
+  features:
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cachethq.io
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cachethq.io
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cachethq.io
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cachethq.io
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cachethq.io
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cachethq.io
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://cachethq.io
+    status_rss:
+      value: unknown
+      verified_at: 2026-09-24
+      notes: RSS support may depend on version or theming.
+
+- id: uptimekuma
+  name: Uptime Kuma
+  homepage: https://uptime.kuma.pet
+  description: Self-hosted, open-source monitoring tool with status pages, multi-channel notifications, and a growing REST API.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/louislam/uptime-kuma
+  license: MIT
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    multi_region_monitoring:
+      value: unknown
+      verified_at: 2026-09-24
+      notes: Checks are run from the single self-hosted instance unless multiple instances are deployed.
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://uptime.kuma.pet
+
+- id: grafanoncall
+  name: Grafana OnCall
+  status: archived
+  homepage: https://grafana.com/products/oncall
+  description: Open-source on-call management engine that was integrated with Grafana Cloud and self-hosted Grafana stacks.
+  notes: Grafana OnCall OSS entered maintenance mode in March 2025 and the repository was archived in March 2026; active development moved to Grafana Cloud IRM.
+  categories:
+    - on_call
+  deployment:
+    hosted: true
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/grafana/oncall
+  license: AGPL-3.0
+  features:
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://grafana.com/products/oncall
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://grafana.com/products/oncall
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://grafana.com/products/oncall
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://grafana.com/products/oncall
+    incident_management:
+      value: unsupported
+      verified_at: 2026-09-24
+      sources:
+        - https://grafana.com/products/oncall
+      notes: Grafana OnCall focuses on alert routing and on-call; full incident workflow is handled by other tools.
+
+- id: blackbox_exporter
+  name: Prometheus Blackbox Exporter
+  homepage: https://github.com/prometheus/blackbox_exporter
+  description: Official Prometheus exporter that probes endpoints over HTTP, HTTPS, DNS, TCP, and ICMP.
+  categories:
+    - monitoring
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/prometheus/blackbox_exporter
+  license: Apache-2.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/prometheus/blackbox_exporter
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/prometheus/blackbox_exporter
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/prometheus/blackbox_exporter
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/prometheus/blackbox_exporter
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/prometheus/blackbox_exporter
+    api_monitoring:
+      value: unknown
+      verified_at: 2026-09-24
+      notes: Can assert on HTTP responses but lacks dedicated API-test constructs.
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://github.com/prometheus/blackbox_exporter
+    push_monitoring:
+      value: not_applicable
+      verified_at: 2026-09-24
+
+- id: squadcast
+  name: Squadcast
+  homepage: https://www.squadcast.com
+  description: SaaS incident management and on-call platform that also offers status page publishing and SLO/error-budget tracking.
+  categories:
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+    http_monitoring:
+      value: unknown
+      verified_at: 2026-09-24
+      sources:
+        - https://www.squadcast.com
+      notes: Squadcast ingests alerts from monitoring tools rather than performing native synthetic monitoring.
+
+- id: statuspage_me
+  name: StatusPage.me
+  homepage: https://statuspage.me/
+  description: Hosted service combining uptime monitoring, incident management, on-call alerting, and public or private status pages.
+  categories:
+    - monitoring
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: false
+  open_source: false
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/docs/monitoring/monitoring-types
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/uptime-monitoring
+        - https://statuspage.me/features
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/docs/monitoring/monitoring-types
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/docs/monitoring/monitoring-types
+    push_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/docs/monitoring/monitoring-heartbeat-monitors
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/ssl-monitoring
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/multi-region-checks
+    api_monitoring:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/docs/monitoring/monitoring-types
+      notes: API monitors support request methods, auth, headers, body, status, JSONPath, header, and response-time conditions.
+    incident_management:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/incidents
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/incidents
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/maintenance-windows
+    postmortems:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/docs/incidents%20&%20maintenances/incidents-postmortem
+      notes: Published postmortems appear on the public status page; drafts stay internal.
+    on_call:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/on-call-scheduling
+    escalation_policies:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/on-call-scheduling
+    public_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/features
+    private_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/private-status-pages
+    status_components:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/incidents
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/custom-domains
+    status_subscribers:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/features
+    status_rss:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://status.statuspage.me/rss.xml
+        - https://status.statuspage.me/atom.xml
+      notes: Each status page exposes RSS and Atom feeds; the first-party status page advertises both via rel=alternate links.
+    uptime_history:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/features
+    api:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/docs/api/
+    integrations:
+      value: supported
+      verified_at: 2026-09-24
+      sources:
+        - https://statuspage.me/integrations

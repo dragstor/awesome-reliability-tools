@@ -1,0 +1,114 @@
+- id: http_monitoring
+  name: HTTP/HTTPS monitoring
+  group: monitoring
+  description: Monitors availability of web endpoints over HTTP or HTTPS.
+
+- id: tcp_monitoring
+  name: TCP monitoring
+  group: monitoring
+  description: Monitors availability of arbitrary TCP ports and services.
+
+- id: dns_monitoring
+  name: DNS monitoring
+  group: monitoring
+  description: Checks DNS resolution and record correctness.
+
+- id: icmp_monitoring
+  name: ICMP/ping monitoring
+  group: monitoring
+  description: Sends ICMP echo requests to check host reachability.
+
+- id: push_monitoring
+  name: Heartbeat / push monitoring
+  group: monitoring
+  description: Receives periodic signals from a process or job to confirm it is alive.
+
+- id: ssl_monitoring
+  name: SSL certificate monitoring
+  group: monitoring
+  description: Tracks TLS certificate expiry and configuration.
+
+- id: multi_region_monitoring
+  name: Multi-region monitoring
+  group: monitoring
+  description: Performs checks from multiple geographic locations.
+
+- id: api_monitoring
+  name: API monitoring
+  group: monitoring
+  description: Validates API responses, status codes, latency, and assertions.
+
+- id: incident_management
+  name: Incident management
+  group: incident_management
+  description: Provides a structured workflow for declaring, tracking, and resolving incidents.
+
+- id: automatic_incidents
+  name: Automatic incident creation
+  group: incident_management
+  description: Creates incidents automatically from alerts or monitoring failures.
+
+- id: maintenance_windows
+  name: Maintenance windows
+  group: incident_management
+  description: Suppresses or schedules alerts during planned maintenance.
+
+- id: postmortems
+  name: Postmortems
+  group: incident_management
+  description: Supports writing and storing incident retrospective documents.
+
+- id: on_call
+  name: On-call scheduling
+  group: on_call
+  description: Rotates responsibility for responding to alerts among team members.
+
+- id: escalation_policies
+  name: Escalation policies
+  group: on_call
+  description: Escalates unanswered alerts to additional people or channels.
+
+- id: public_status_page
+  name: Public status page
+  group: status_page
+  description: Publishes a public page showing current and historical service health.
+
+- id: private_status_page
+  name: Private status page
+  group: status_page
+  description: Provides a status page restricted to authorized viewers.
+
+- id: status_components
+  name: Status components
+  group: status_page
+  description: Lets you model individual services or components on a status page.
+
+- id: custom_domain_status_page
+  name: Custom domain for status page
+  group: status_page
+  description: Allows hosting a status page on your own domain.
+
+- id: status_subscribers
+  name: Status subscribers
+  group: status_page
+  description: Notifies subscribers by email, SMS, or other channels when incidents are posted.
+
+- id: status_rss
+  name: RSS/Atom feed
+  group: status_page
+  description: Exposes incident updates via RSS or Atom feed.
+
+- id: uptime_history
+  name: Uptime history display
+  group: status_page
+  description: Shows historical uptime percentages or incident timelines.
+
+- id: api
+  name: Programmatic API
+  group: general
+  description: Exposes a documented API for automation and integrations.
+
+- id: integrations
+  name: Third-party integrations
+  group: general
+  description: Ships native integrations with chat, ticketing, monitoring, or cloud tools.
