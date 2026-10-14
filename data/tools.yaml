@@ -2971,3 +2971,125 @@
       verified_at: 2026-09-24
       sources:
         - https://github.com/statping-ng/statping-ng
+
+- id: solidping
+  name: SolidPing
+  homepage: https://www.solidping.io
+  description: Self-hosted or hosted uptime monitoring with 40+ check types, multi-region workers, incidents, on-call escalation, and status pages.
+  categories:
+    - monitoring
+    - incident_management
+    - on_call
+    - status_page
+  deployment:
+    hosted: true
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/fclairamb/solidping
+  license: AGPL-3.0
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/check-types#httphttps
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/check-types#tcp
+    dns_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/check-types#dns
+    icmp_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/check-types#icmp-ping
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/check-types#ssltls-certificate
+    push_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/check-types#heartbeat
+    multi_region_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/region-placement
+    api_monitoring:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/check-types#httphttps
+    incident_management:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/incidents
+    automatic_incidents:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/incidents
+    maintenance_windows:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/maintenance-windows
+    on_call:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/on-call
+    escalation_policies:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/on-call
+    public_status_page:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/status-pages
+    status_components:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/status-pages
+    custom_domain_status_page:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/custom-domains
+    status_subscribers:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/custom-domains
+    status_rss:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/custom-domains
+    uptime_history:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/features/status-pages
+    api:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/api
+    integrations:
+      value: supported
+      verified_at: 2026-10-14
+      sources:
+        - https://docs.solidping.io/docs/configuration/notifications

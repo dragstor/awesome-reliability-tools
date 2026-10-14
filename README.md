@@ -56,6 +56,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | Active | Yes | — | — | — | No | Yes | Yes |
 | [Pulsetic](https://pulsetic.com) | Active | Yes | Yes | — | Yes | Yes | No | No |
 | [Rootly](https://rootly.com) | Active | — | Yes | Yes | Yes | Yes | No | No |
+| [SolidPing](https://www.solidping.io) | Active | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | [Sorry](https://www.sorry.app) | Active | — | Yes | — | Yes | Yes | No | No |
 | [Squadcast](https://www.squadcast.com) | Active | — | Yes | Yes | Yes | Yes | No | No |
 | [Statping-ng](https://statping-ng.github.io) | Active | Yes | — | — | Yes | No | Yes | Yes |
@@ -97,6 +98,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [Pingdom](https://www.pingdom.com) | ? | Yes | Yes | ? | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | ? | Yes | Yes | — | Yes | ? | Yes | Yes | No | Yes | Yes | 2026-09-24 |
 | [Pulsetic](https://pulsetic.com) | Yes | ? | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [SolidPing](https://www.solidping.io) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 2026-10-14 |
 | [Statping-ng](https://statping-ng.github.io) | ? | ? | Yes | ? | ? | ? | ? | ? | No | Yes | Yes | 2026-09-24 |
 | [StatusPage.me](https://statuspage.me/) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [StatusPal](https://statuspal.io) | ? | ? | Yes | ? | ? | ? | ? | ? | Yes | No | No | 2026-09-24 |
@@ -124,6 +126,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [PagerDuty](https://www.pagerduty.com) | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Pulsetic](https://pulsetic.com) | ? | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
 | [Rootly](https://rootly.com) | ? | Yes | ? | Yes | Yes | No | No | 2026-09-24 |
+| [SolidPing](https://www.solidping.io) | Yes | Yes | Yes | ? | Yes | Yes | Yes | 2026-10-14 |
 | [Sorry](https://www.sorry.app) | ? | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
 | [Squadcast](https://www.squadcast.com) | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Status.io](https://status.io) | Yes | Yes | Yes | ? | Yes | No | No | 2026-09-24 |
@@ -148,6 +151,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [Opsgenie](https://www.atlassian.com/software/opsgenie) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [PagerDuty](https://www.pagerduty.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Rootly](https://rootly.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [SolidPing](https://www.solidping.io) | Yes | Yes | Yes | Yes | Yes | 2026-10-14 |
 | [Squadcast](https://www.squadcast.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [StatusPage.me](https://statuspage.me/) | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [ilert](https://www.ilert.com) | Yes | Yes | Yes | No | No | 2026-09-24 |
@@ -176,6 +180,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [Pingdom](https://www.pingdom.com) | ? | ? | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Pulsetic](https://pulsetic.com) | Yes | Yes | Yes | ? | ? | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Rootly](https://rootly.com) | Yes | Yes | Yes | ? | Yes | ? | Yes | Yes | No | No | 2026-09-24 |
+| [SolidPing](https://www.solidping.io) | Yes | ? | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 2026-10-14 |
 | [Sorry](https://www.sorry.app) | ? | Yes | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Squadcast](https://www.squadcast.com) | Yes | ? | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Statping-ng](https://statping-ng.github.io) | ? | ? | Yes | ? | Yes | ? | ? | No | Yes | Yes | 2026-09-24 |
