@@ -56,6 +56,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | Active | Yes | — | — | — | No | Yes | Yes |
 | [Pulsetic](https://pulsetic.com) | Active | Yes | Yes | — | Yes | Yes | No | No |
 | [Rootly](https://rootly.com) | Active | — | Yes | Yes | Yes | Yes | No | No |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Active | Yes | — | — | Yes | No | Yes | Yes |
 | [Sorry](https://www.sorry.app) | Active | — | Yes | — | Yes | Yes | No | No |
 | [Squadcast](https://www.squadcast.com) | Active | — | Yes | Yes | Yes | Yes | No | No |
 | [Statping-ng](https://statping-ng.github.io) | Active | Yes | — | — | Yes | No | Yes | Yes |
@@ -97,6 +98,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [Pingdom](https://www.pingdom.com) | ? | Yes | Yes | ? | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) | ? | Yes | Yes | — | Yes | ? | Yes | Yes | No | Yes | Yes | 2026-09-24 |
 | [Pulsetic](https://pulsetic.com) | Yes | ? | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | ? | ? | Yes | ? | ? | ? | Yes | Yes | No | Yes | Yes | 2026-11-23 |
 | [Statping-ng](https://statping-ng.github.io) | ? | ? | Yes | ? | ? | ? | ? | ? | No | Yes | Yes | 2026-09-24 |
 | [StatusPage.me](https://statuspage.me/) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [StatusPal](https://statuspal.io) | ? | ? | Yes | ? | ? | ? | ? | ? | Yes | No | No | 2026-09-24 |
@@ -176,6 +178,7 @@ A claim marked **Unknown / unverified** does not mean unsupported. It means we h
 | [Pingdom](https://www.pingdom.com) | ? | ? | Yes | Yes | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Pulsetic](https://pulsetic.com) | Yes | Yes | Yes | ? | ? | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Rootly](https://rootly.com) | Yes | Yes | Yes | ? | Yes | ? | Yes | Yes | No | No | 2026-09-24 |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | ? | Yes | Yes | ? | ? | ? | Yes | No | Yes | Yes | 2026-11-23 |
 | [Sorry](https://www.sorry.app) | ? | Yes | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Squadcast](https://www.squadcast.com) | Yes | ? | Yes | ? | Yes | Yes | Yes | Yes | No | No | 2026-09-24 |
 | [Statping-ng](https://statping-ng.github.io) | ? | ? | Yes | ? | Yes | ? | ? | No | Yes | Yes | 2026-09-24 |

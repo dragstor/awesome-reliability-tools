@@ -2971,3 +2971,55 @@
       verified_at: 2026-09-24
       sources:
         - https://github.com/statping-ng/statping-ng
+
+- id: sitewatcher
+  name: SiteWatcher
+  homepage: https://github.com/NikKurkov/sitewatcher
+  description: Self-hosted website monitor with HTTP check history, certificate and domain expiry alerts, and shareable status pages.
+  categories:
+    - monitoring
+    - status_page
+  deployment:
+    hosted: false
+    self_hosted: true
+  open_source: true
+  repository: https://github.com/NikKurkov/sitewatcher
+  license: MIT
+  features:
+    http_monitoring:
+      value: supported
+      verified_at: 2026-11-23
+      sources:
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#additional-checks
+    tcp_monitoring:
+      value: supported
+      verified_at: 2026-11-23
+      sources:
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#additional-checks
+    ssl_monitoring:
+      value: supported
+      verified_at: 2026-11-23
+      sources:
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#additional-checks
+    public_status_page:
+      value: supported
+      verified_at: 2026-11-23
+      sources:
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#public-status-page
+        - https://monitoring.kurkov.dev/demo
+    private_status_page:
+      value: supported
+      verified_at: 2026-11-23
+      sources:
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#public-status-page
+    uptime_history:
+      value: supported
+      verified_at: 2026-11-23
+      sources:
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#read-the-results
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#public-status-page
+    integrations:
+      value: supported
+      verified_at: 2026-11-23
+      sources:
+        - https://github.com/NikKurkov/sitewatcher/blob/main/docs/usage.en.md#telegram
